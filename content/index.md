@@ -1,6 +1,11 @@
----
-title: Welcome to Quartz
+﻿---
+title: Medicina
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Medicina
+
+Appunti e materiali di studio del corso di Medicina.
+
+## Primo anno
+
+- [[Primo anno/Semestre Filtro/index|Semestre filtro]]
